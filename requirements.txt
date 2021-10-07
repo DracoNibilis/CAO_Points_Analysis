@@ -1,0 +1,4 @@
+"File that enables someone to quickly run your 
+notebooks with minimal configuration. 
+Should also include any other required files such
+as data files and image files."
