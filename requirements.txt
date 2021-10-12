@@ -2,3 +2,7 @@
 notebooks with minimal configuration. 
 Should also include any other required files such
 as data files and image files."
+
+
+Libraries that needs to be installed:
+- request
