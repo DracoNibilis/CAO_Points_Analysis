@@ -1,0 +1,935 @@
+Institution	Code	Course	EOS	Mid
+"Athlone Institute of Technology"	AL801	Software Design (Game Development or Cloud Computing)	300	340
+"Athlone Institute of Technology"	AL810	Quantity Surveying	315	355
+"Athlone Institute of Technology"	AL820	Mechanical and Polymer Engineering	295	340
+"Athlone Institute of Technology"	AL830	General Nursing	425*	440
+"Athlone Institute of Technology"	AL831	Mature Applicants General Nursing	#181	185
+"Athlone Institute of Technology"	AL832	Psychiatric Nursing	375*	405
+"Athlone Institute of Technology"	AL833	Mature Applicants Psychiatric Nursing	#169	173
+"Athlone Institute of Technology"	AL836	Health Science with Nutrition	350	380
+"Athlone Institute of Technology"	AL837	Sports Science with Exercise Physiology	360	385
+"Athlone Institute of Technology"	AL838	Biotechnology	270	345
+"Athlone Institute of Technology"	AL840	Pharmaceutical Science	255	290
+"Athlone Institute of Technology"	AL841	Athletic and Rehabilitation Therapy	410	430
+"Athlone Institute of Technology"	AL842	Bioveterinary Science	325	370
+"Athlone Institute of Technology"	AL843	Physical Activity and Health	345	390
+"Athlone Institute of Technology"	AL850	Business	300	365
+"Athlone Institute of Technology"	AL851	Business and Law	300	345
+"Athlone Institute of Technology"	AL852	Accounting (with optional placement)	290	335
+"Athlone Institute of Technology"	AL854	Business Psychology	305	340
+"Athlone Institute of Technology"	AL860	Social Care Practice	300	330
+"Athlone Institute of Technology"	AL861	Animation and Illustration (Portfolio)	#565	835
+"Carlow College"	PC405	Citizenship and Community Studies	225	300
+"Carlow College"	PC410	Humanities	280	325
+"Carlow College"	PC411	English and History	300	333
+"Institute of Technology, Carlow"	CW008	Applied Humanities (Wexford)	#	
+"Institute of Technology, Carlow"	CW018	Business (Wexford)	255	345
+"Institute of Technology, Carlow"	CW028	Early Childhood Education and Care (Wexford)	265	315
+"Institute of Technology, Carlow"	CW038	Art (Wexford - Portfolio)	#700	700
+"Institute of Technology, Carlow"	CW068	Applied Social Studies (Professional Social Care - Wexford)	270	355
+"Institute of Technology, Carlow"	CW078	Sustainable Farm Management and Agribusiness (Wexford)	320	360
+"Institute of Technology, Carlow"	CW088	Visual Communications and Design (Wexford)	265	300
+"Institute of Technology, Carlow"	CW098	Culture and Heritage Studies (Wexford)	310	310
+"Institute of Technology, Carlow"	CW108	Biosciences with Bioforensics or Biopharmaceuticals	295	375
+"Institute of Technology, Carlow"	CW168	Environmental Science	290	300
+"Institute of Technology, Carlow"	CW178	Sport Science	410	430
+"Institute of Technology, Carlow"	CW188	Sports Rehabilitation and Athletic Therapy	445	460
+"Institute of Technology, Carlow"	CW198	Strength and Conditioning	400	410
+"Institute of Technology, Carlow"	CW208	Computer Games Development	290	355
+"Institute of Technology, Carlow"	CW238	Software Development	290	335
+"Institute of Technology, Carlow"	CW248	Computer Systems Management	300	340
+"Institute of Technology, Carlow"	CW258	Cybercrime and IT Security	315	370
+"Institute of Technology, Carlow"	CW438	Construction	260	290
+"Institute of Technology, Carlow"	CW468	Architectural Technology	270	325
+"Institute of Technology, Carlow"	CW478	Civil Engineering	395	430
+"Institute of Technology, Carlow"	CW548	Mechanical Engineering	335	367
+"Institute of Technology, Carlow"	CW558	Electronic Systems	290	330
+"Institute of Technology, Carlow"	CW568	Aero Engineering	395	430
+"Institute of Technology, Carlow"	CW578	TV and Media Production	365	380
+"Institute of Technology, Carlow"	CW708	Law - LLB	300	345
+"Institute of Technology, Carlow"	CW728	Product Design Innovation	300	350
+"Institute of Technology, Carlow"	CW748	Early Childhood Education and Care	270	335
+"Institute of Technology, Carlow"	CW758	Applied Social Studies (Professional Social Care)	295	339
+"Institute of Technology, Carlow"	CW788	Youth and Community Work (Interview)	#700	700
+"Institute of Technology, Carlow"	CW808	Media and Public Relations	270	345
+"Institute of Technology, Carlow"	CW858	Sport Management and Coaching (Options: GAA, Rugby, Soccer - Portfolio)	#700	700
+"Institute of Technology, Carlow"	CW908	Business	270	340
+"Institute of Technology, Carlow"	CW938	Business with Law	290	335
+"Institute of Technology, Carlow"	CW948	Accounting	317	365
+"Cork Institute of Technology"	CR105	Chemical and Biopharmaceutical Engineering	430	490
+"Cork Institute of Technology"	CR106	Software Development	380	400
+"Cork Institute of Technology"	CR108	Mechanical Engineering	415	490
+"Cork Institute of Technology"	CR109	Structural Engineering	375	450
+"Cork Institute of Technology"	CR112	Multimedia	365	400
+"Cork Institute of Technology"	CR116	Software Development and Computer Networking	330	365
+"Cork Institute of Technology"	CR121	Music at CIT Cork School of Music	#620	925
+"Cork Institute of Technology"	CR125	Popular Music: Electric Bass Guitar at CIT Cork School of Music	#675	740
+"Cork Institute of Technology"	CR126	Popular Music: Drums at CIT Cork School of Music	#770	1015
+"Cork Institute of Technology"	CR127	Popular Music: Electric Guitar at CIT Cork School of Music	#680	830
+"Cork Institute of Technology"	CR128	Popular Music: Keyboards at CIT Cork School of Music	#795	995
+"Cork Institute of Technology"	CR129	Popular Music: Voice at CIT Cork School of Music	#890	995
+"Cork Institute of Technology"	CR150	Business Information Systems	385	415
+"Cork Institute of Technology"	CR210	Contemporary Applied Art (Ceramics, Glass, Textiles) at Crawford College	#1000	1000
+"Cork Institute of Technology"	CR220	Fine Art at CIT Crawford College of Art and Design	#710	945
+"Cork Institute of Technology"	CR305	Physical Sciences (Common Entry)	305	350
+"Cork Institute of Technology"	CR310	IT Management	320	340
+"Cork Institute of Technology"	CR312	Web Development	320	344
+"Cork Institute of Technology"	CR320	Biomedical Science - Offered jointly by CIT and UCC	545*	570
+"Cork Institute of Technology"	CR325	Pharmaceutical Biotechnology	360	390
+"Cork Institute of Technology"	CR330	Herbal Science	340	375
+"Cork Institute of Technology"	CR333	Nutrition and Health Science	380	410
+"Cork Institute of Technology"	CR335	Biological Sciences (Common Entry)	400	420
+"Cork Institute of Technology"	CR340	Analytical Chemistry with Quality Assurance	305	380
+"Cork Institute of Technology"	CR360	Instrument Engineering	300	340
+"Cork Institute of Technology"	CR365	Environmental Science and Sustainable Technology	310	355
+"Cork Institute of Technology"	CR400	Accounting	325	375
+"Cork Institute of Technology"	CR420	Marketing	320	350
+"Cork Institute of Technology"	CR425	International Business with Language	330	385
+"Cork Institute of Technology"	CR500	Engineering (Common Entry)	410	440
+"Cork Institute of Technology"	CR510	Sustainable Energy	310	370
+"Cork Institute of Technology"	CR520	Biomedical Engineering	430	470
+"Cork Institute of Technology"	CR560	Architectural Technology	300	355
+"Cork Institute of Technology"	CR565	Interior Architecture	315	360
+"Cork Institute of Technology"	CR570	Quantity Surveying	280	350
+"Cork Institute of Technology"	CR572	Construction Management	245	315
+"Cork Institute of Technology"	CR580	Electrical Engineering	315	355
+"Cork Institute of Technology"	CR590	Electronic Engineering	315	375
+"Cork Institute of Technology"	CR600	Visual Communications	#630	885
+"Cork Institute of Technology"	CR660	Tourism	265	315
+"Cork Institute of Technology"	CR700	Theatre and Drama Studies at CIT Cork School of Music	#650	860
+"University College Cork (NUI)"	CK101	Arts - 3 years	350	395
+"University College Cork (NUI)"	CK102	Social Science	420	450
+"University College Cork (NUI)"	CK104	Arts with Music - 3 years or 4 years (BMus or International Pathway)	#390	465
+"University College Cork (NUI)"	CK105	Film and Screen Media - 3 years or 4 years (International Pathway)	430	465
+"University College Cork (NUI)"	CK106	Applied Psychology	490	525
+"University College Cork (NUI)"	CK107	Geographical and Archaeological Sciences - 3 or 4 years (Intl Pathway)	330	370
+"University College Cork (NUI)"	CK108	Arts International - 4 years with subject groupings as CK101	465	495
+"University College Cork (NUI)"	CK109	English - 3 years or 4 years (International Pathway)	400	435
+"University College Cork (NUI)"	CK110	World Languages	470	515
+"University College Cork (NUI)"	CK111	Early Years and Childhood Studies	385*	415
+"University College Cork (NUI)"	CK112	Drama and Theatre Studies - 3 years or 4 years (International Pathway)	#325	435
+"University College Cork (NUI)"	CK113	Criminology - 3 years or 4 years (International Pathway)	425	450
+"University College Cork (NUI)"	CK114	Social Science (Youth and Community Work) - 3 years	#777	
+"University College Cork (NUI)"	CK115	Social Work - Mature Applicants only	999	
+"University College Cork (NUI)"	CK116	Sports Studies and Physical Education	490	510
+"University College Cork (NUI)"	CK117	Economics (Transformational Learning) - 3 or 4 years (Intl Pathway)	430	445
+"University College Cork (NUI)"	CK118	Digital Humanities and Information Tech - 3 or 4 years (Intl Pathway)	375	405
+"University College Cork (NUI)"	CK201	Commerce	460	485
+"University College Cork (NUI)"	CK202	Accounting	455	500
+"University College Cork (NUI)"	CK203	Business Information Systems	465	495
+"University College Cork (NUI)"	CK204	Finance	515	540
+"University College Cork (NUI)"	CK205	Commerce (International) with French	480	500
+"University College Cork (NUI)"	CK206	Commerce (International) with German	495	515
+"University College Cork (NUI)"	CK207	Commerce (International) with Italian	430	440
+"University College Cork (NUI)"	CK208	Commerce (International) with Hispanic Studies	460	475
+"University College Cork (NUI)"	CK209	Commerce (International) with Irish	500	540
+"University College Cork (NUI)"	CK210	Government	340	395
+"University College Cork (NUI)"	CK211	Commerce (International) with Chinese Studies	400	430
+"University College Cork (NUI)"	CK301	Law (Pathways) - 3 years or 4 years	490	510
+"University College Cork (NUI)"	CK302	Law and French	505	540
+"University College Cork (NUI)"	CK304	Law and Irish	515	550
+"University College Cork (NUI)"	CK307	Law and Business	530	550
+"University College Cork (NUI)"	CK401	Computer Science	435	470
+"University College Cork (NUI)"	CK402	Biological and Chemical Sciences	480	515
+"University College Cork (NUI)"	CK404	Biological, Earth and Environmental Sciences	425	455
+"University College Cork (NUI)"	CK405	Genetics	480	505
+"University College Cork (NUI)"	CK406	Chemical Sciences	460	475
+"University College Cork (NUI)"	CK407	Mathematical Sciences	560	595
+"University College Cork (NUI)"	CK408	Physics and Astrophysics	525	555
+"University College Cork (NUI)"	CK502	Food Marketing and Entrepreneurship	440	455
+"University College Cork (NUI)"	CK504	Nutritional Sciences	510	530
+"University College Cork (NUI)"	CK505	Food Science	465	485
+"University College Cork (NUI)"	CK506	International Development and Food Policy	375	415
+"University College Cork (NUI)"	CK600	Engineering	490	530
+"University College Cork (NUI)"	CK606	Architecture - Offered jointly by UCC and CIT	445	480
+"University College Cork (NUI)"	CK701	Medicine (Undergraduate Entry)	#726	738
+"University College Cork (NUI)"	CK702	Dentistry	580*	585
+"University College Cork (NUI)"	CK703	Pharmacy	560	585
+"University College Cork (NUI)"	CK704	Occupational Therapy	525	540
+"University College Cork (NUI)"	CK705	Speech and Language Therapy	515	525
+"University College Cork (NUI)"	CK706	Public Health	415	435
+"University College Cork (NUI)"	CK710	General Nursing	445*	475
+"University College Cork (NUI)"	CK711	Mature Applicants General Nursing	#174*	178
+"University College Cork (NUI)"	CK712	Children`s and General Nursing (Integrated)	505*	525
+"University College Cork (NUI)"	CK713	Mature Applicants Children`s and General Nursing (Integrated)	#185*	194
+"University College Cork (NUI)"	CK720	Mental Health Nursing	420	445
+"University College Cork (NUI)"	CK721	Mature Applicants Mental Health Nursing	#170	178
+"University College Cork (NUI)"	CK730	Intellectual Disability Nursing	425	440
+"University College Cork (NUI)"	CK731	Mature Applicants Intellectual Disability Nursing	#168	170
+"University College Cork (NUI)"	CK740	Midwifery	445	465
+"University College Cork (NUI)"	CK741	Mature Applicants Midwifery	#191	192
+"University College Cork (NUI)"	CK791	Medicine (Graduate Entry)	#57*	58
+"American College"	AC120	International Business	255	317
+"American College"	AC137	Liberal Arts	295	333
+"College of Computing Technology"	CT125	Information Technology	310	310
+"Marino Institute of Education"	CM001	Education - Primary Teaching	460*	480
+"Marino Institute of Education"	CM002	Education - Primary Teaching - Gaeltacht Applicants	#420	420
+"Marino Institute of Education"	CM010	Education Studies	320	390
+"Marino Institute of Education"	CM020	Early Childhood Education	345	370
+"Dublin Business School & DBS School of Arts"	DB500	Computing	240	320
+"Dublin Business School & DBS School of Arts"	DB512	Business Studies	215	340
+"Dublin Business School & DBS School of Arts"	DB514	Business Studies ( Law)	260	325
+"Dublin Business School & DBS School of Arts"	DB515	Business Studies ( Human Resource Management)	235	317
+"Dublin Business School & DBS School of Arts"	DB516	Financial Services	410	410
+"Dublin Business School & DBS School of Arts"	DB517	Marketing ( Event Management)	230	335
+"Dublin Business School & DBS School of Arts"	DB518	Marketing ( Digital Media)	235	295
+"Dublin Business School & DBS School of Arts"	DB520	Business Studies (with work placement)	265	350
+"Dublin Business School & DBS School of Arts"	DB521	Accounting and Finance	235	350
+"Dublin Business School & DBS School of Arts"	DB524	Business Information Systems	315	333
+"Dublin Business School & DBS School of Arts"	DB525	Marketing ( Digital Media and Cloud Computing)	210	260
+"Dublin Business School & DBS School of Arts"	DB526	Business Information Systems ( Cloud Computing)	255	465
+"Dublin Business School & DBS School of Arts"	DB531	Marketing	265	345
+"Dublin Business School & DBS School of Arts"	DB561	Arts (General)	250	300
+"Dublin Business School & DBS School of Arts"	DB562	Psychology	225	330
+"Dublin Business School & DBS School of Arts"	DB565	Journalism	260	330
+"Dublin Business School & DBS School of Arts"	DB566	Social Science	240	300
+"Dublin Business School & DBS School of Arts"	DB567	Film	165	315
+"Dublin Business School & DBS School of Arts"	DB568	Law	180	320
+"Dublin Business School & DBS School of Arts"	DB569	Business ( Psychology)	235	345
+"Dublin City University"	DC001	Education - Early Childhood Education (subject to accreditation)	400	425
+"Dublin City University"	DC002	Education - Primary Teaching	465*	495
+"Dublin City University"	DC003	Education - Primary Teaching - Gaeltacht Applicants	#440	460
+"Dublin City University"	DC004	Education - Primary Teaching (Church of Ireland Centre formerly CICE)	#435	
+"Dublin City University"	DC009	Arts (Joint Honours) - Humanities	385	425
+"Dublin City University"	DC010	Post Primary Teacher Education - Religious Education and English	400	420
+"Dublin City University"	DC011	Post Primary Teacher Education - Religious Education and History	380	420
+"Dublin City University"	DC012	Post Primary Teacher Education - Religious Education and Music	#370	420
+"Dublin City University"	DC110	Business Studies International	465	485
+"Dublin City University"	DC111	Business Studies	470	490
+"Dublin City University"	DC112	Global Business (France)	500	515
+"Dublin City University"	DC113	Global Business (Germany)	470	495
+"Dublin City University"	DC114	Global Business (Spain)	515	535
+"Dublin City University"	DC115	Accounting and Finance	485	520
+"Dublin City University"	DC116	Global Business (USA)	590	610
+"Dublin City University"	DC117	Aviation Management / Aviation Management with Pilot Studies	460	490
+"Dublin City University"	DC118	Gnó agus Gaeilge / Business and Irish	350	385
+"Dublin City University"	DC119	Global Business (Canada)	545	550
+"Dublin City University"	DC120	Enterprise Computing	370	395
+"Dublin City University"	DC121	Computer Applications	400	435
+"Dublin City University"	DC122	Computational Problem-Solving and Software Development	#345	425
+"Dublin City University"	DC123	Data Science		
+"Dublin City University"	DC126	Actuarial Mathematics	515	540
+"Dublin City University"	DC127	Common Entry into Actuarial and Financial Mathematics	500	510
+"Dublin City University"	DC131	Communication Studies	445	470
+"Dublin City University"	DC132	Journalism	420	455
+"Dublin City University"	DC133	Multimedia	450	480
+"Dublin City University"	DC155	Applied Language and Translation Studies	375	435
+"Dublin City University"	DC161	Analytical Science	470	475
+"Dublin City University"	DC162	Chemical and Pharmaceutical Sciences	490	505
+"Dublin City University"	DC166	Environmental Science and Health	425	440
+"Dublin City University"	DC167	Physics with Astronomy	415	445
+"Dublin City University"	DC168	Genetics and Cell Biology	485	495
+"Dublin City University"	DC171	Applied Physics	415	465
+"Dublin City University"	DC173	Physics with Biomedical Sciences	415	455
+"Dublin City University"	DC181	Biotechnology	480	505
+"Dublin City University"	DC190	Electronic and Computer Engineering	420	450
+"Dublin City University"	DC193	Mechatronic Engineering	405	465
+"Dublin City University"	DC195	Mechanical and Manufacturing Engineering	410	450
+"Dublin City University"	DC197	Biomedical Engineering	405	450
+"Dublin City University"	DC200	Common Entry into Engineering (Undenominated Entry)	405	455
+"Dublin City University"	DC201	Common Entry into Science (Undenominated Entry)	480	495
+"Dublin City University"	DC202	Sport Science and Health	495	505
+"Dublin City University"	DC203	Science Education	430	465
+"Dublin City University"	DC204	Athletic Therapy and Training	510	525
+"Dublin City University"	DC205	Physical Education with Biology	500	530
+"Dublin City University"	DC206	Physical Education with Mathematics	480	500
+"Dublin City University"	DC208	Psychology	505	525
+"Dublin City University"	DC209	Health and Society	425	445
+"Dublin City University"	DC215	General Nursing	450	470
+"Dublin City University"	DC216	Psychiatric Nursing	375	395
+"Dublin City University"	DC217	Intellectual Disability Nursing	375	395
+"Dublin City University"	DC218	Children's and General Nursing (Integrated)	485	495
+"Dublin City University"	DC225	Mature Applicants General Nursing	#171	172
+"Dublin City University"	DC226	Mature Applicants Psychiatric Nursing	#160	166
+"Dublin City University"	DC227	Mature Applicants Intellectual Disability Nursing	#148	155
+"Dublin City University"	DC228	Mature Applicants Children's and General Nursing (Integrated)	#174	181
+"Dublin City University"	DC230	Economics, Politics and Law	400	430
+"Dublin City University"	DC231	International Relations	385	450
+"Dublin City University"	DC232	Law and Society (BCL)	450	480
+"Dublin City University"	DC235	Education and Training - Daytime or Flexible Delivery Mode	315	345
+"Dublin City University"	DC238	Contemporary Culture and Society	345	365
+"Dublin City University"	DC239	Gaeilge agus Iriseoireacht/Irish and Journalism	345	400
+"Dublin City University"	DC240	Marketing, Innovation and Technology	470	490
+"Dublin City University"	DC291	Arts (Joint Honours) - Media Studies	385	410
+"Dublin City University"	DC292	Arts (Joint Honours) - Law	385	410
+"Dublin City University"	DC293	Arts (Joint Honours) - International Languages	390	430
+"Dublin City University"	DC294	Arts (Joint Honours) - Gaeilge	390	440
+"Dublin City University"	DC295	Arts (Joint Honours) - Politics	385	415
+"Dublin Institute of Technology"	DT001	Product Design	430	450
+"Dublin Institute of Technology"	DT021	Electrical/Electronic Engineering	425	493
+"Dublin Institute of Technology"	DT023	Manufacturing and Design Engineering	415	465
+"Dublin Institute of Technology"	DT028	Transport Operations and Technology	270	330
+"Dublin Institute of Technology"	DT035	Electrical Services and Energy Management	300	370
+"Dublin Institute of Technology"	DT066	Engineering (General Entry)	380	445
+"Dublin Institute of Technology"	DT081	Computer and Communications Engineering	430	440
+"Dublin Institute of Technology"	DT101	Architecture	#605	645
+"Dublin Institute of Technology"	DT106	Planning and Environmental Management	300	325
+"Dublin Institute of Technology"	DT110	Property Economics (Valuation Surveying)	350	385
+"Dublin Institute of Technology"	DT111	Quantity Surveying and Construction Economics	350	390
+"Dublin Institute of Technology"	DT112	Geographic Science	310	365
+"Dublin Institute of Technology"	DT117	Construction Management	325	350
+"Dublin Institute of Technology"	DT175	Architectural Technology	365	395
+"Dublin Institute of Technology"	DT201	Science (General Entry)	470	480
+"Dublin Institute of Technology"	DT203	Forensic and Environmental Chemistry	325	360
+"Dublin Institute of Technology"	DT204	Biomedical Science	500	515
+"Dublin Institute of Technology"	DT205	Mathematical Sciences	305	410
+"Dublin Institute of Technology"	DT206	Biomedical and Molecular Diagnostics	420	450
+"Dublin Institute of Technology"	DT211	Computer Science (Infrastructure)	360	385
+"Dublin Institute of Technology"	DT220	Industrial Mathematics	270	370
+"Dublin Institute of Technology"	DT221	Physics with Energy and Environment	320	455
+"Dublin Institute of Technology"	DT222	Physics Technology	350	410
+"Dublin Institute of Technology"	DT223	Human Nutrition and Dietetics	545	570
+"Dublin Institute of Technology"	DT224	Optometry	490	510
+"Dublin Institute of Technology"	DT225	Public Health Nutrition	405	455
+"Dublin Institute of Technology"	DT227	Science with Nanotechnology	300	385
+"Dublin Institute of Technology"	DT228	Computer Science	450	465
+"Dublin Institute of Technology"	DT229	Clinical Measurement Science	465	495
+"Dublin Institute of Technology"	DT235	Physics with Medical Physics and Bioengineering	330	380
+"Dublin Institute of Technology"	DT255	Information Systems/Information Technology (Mature)	7773	
+"Dublin Institute of Technology"	DT282	Computer Science(International)	350	390
+"Dublin Institute of Technology"	DT299	Chemical Sciences with Medicinal Chemistry	395	440
+"Dublin Institute of Technology"	DT302	Business Analytics	360	455
+"Dublin Institute of Technology"	DT321	Business and Law	470	485
+"Dublin Institute of Technology"	DT341	Marketing	405	430
+"Dublin Institute of Technology"	DT343	Retail and Services Management	300	360
+"Dublin Institute of Technology"	DT354	Business Computing	350	390
+"Dublin Institute of Technology"	DT358	Logistics and Supply Chain Management	300	345
+"Dublin Institute of Technology"	DT365	Business and Management	450	465
+"Dublin Institute of Technology"	DT366	Accounting and Finance	430	455
+"Dublin Institute of Technology"	DT398	Human Resource Management	375	390
+"Dublin Institute of Technology"	DT399	Economics and Finance	445	475
+"Dublin Institute of Technology"	DT401	International Hospitality Management	300	355
+"Dublin Institute of Technology"	DT405	Culinary Science	330	370
+"Dublin Institute of Technology"	DT407	Culinary Arts	300	360
+"Dublin Institute of Technology"	DT412	Tourism Marketing	290	350
+"Dublin Institute of Technology"	DT413	Event Management	365	385
+"Dublin Institute of Technology"	DT416	Culinary Entrepreneurship	290	345
+"Dublin Institute of Technology"	DT417	Bar Studies (Management and Entrepreneurship)	280	315
+"Dublin Institute of Technology"	DT420	Nutraceuticals in Health and Nutrition	430	460
+"Dublin Institute of Technology"	DT421	Food Innovation	375	410
+"Dublin Institute of Technology"	DT422	Pharmaceutical Healthcare	390	415
+"Dublin Institute of Technology"	DT491	Environmental Health	330	380
+"Dublin Institute of Technology"	DT501	Music	#398	508
+"Dublin Institute of Technology"	DT504	Film and Broadcasting	450	475
+"Dublin Institute of Technology"	DT506	Commercial Modern Music	#720	869
+"Dublin Institute of Technology"	DT508	Games Design	385	425
+"Dublin Institute of Technology"	DT517	Languages and English Studies	335	435
+"Dublin Institute of Technology"	DT518	Languages and International Tourism (French)	315	350
+"Dublin Institute of Technology"	DT519	Languages and International Tourism (German)	305	370
+"Dublin Institute of Technology"	DT520	Languages and International Tourism (Spanish)	300	355
+"Dublin Institute of Technology"	DT529	Drama (Performance)	#365	495
+"Dublin Institute of Technology"	DT532	Law (LLB)	425	445
+"Dublin Institute of Technology"	DT533	Contemporary Visual Culture	300	380
+"Dublin Institute of Technology"	DT544	Design - Interior and Furniture	#600	800
+"Dublin Institute of Technology"	DT545	Design - Visual Communication	#775	875
+"Dublin Institute of Technology"	DT546	Fine Art	#645	855
+"Dublin Institute of Technology"	DT555	International Business and Languages (French)	400	430
+"Dublin Institute of Technology"	DT556	International Business and Languages (German)	400	440
+"Dublin Institute of Technology"	DT557	International Business and Languages (Spanish)	400	420
+"Dublin Institute of Technology"	DT559	Photography	#765	860
+"Dublin Institute of Technology"	DT564	International Business and Languages (Italian)	355	385
+"Dublin Institute of Technology"	DT565	International Business and Languages (Chinese)	360	380
+"Dublin Institute of Technology"	DT571	Social Care	405	430
+"Dublin Institute of Technology"	DT572	Early Childhood Education	380	395
+"Dublin Institute of Technology"	DT582	Journalism	380	405
+"Dublin Institute of Technology"	DT596	Print and Digital Media Technology Management	230	295
+"Dublin Institute of Technology"	DT597	Creative and Cultural Industries	315	355
+"Dun Laoghaire Institute of Art, Design and Technology"	DL821	English, Media and Cultural Studies	225	320
+"Dun Laoghaire Institute of Art, Design and Technology"	DL822	Cultural Enterprise	230	320
+"Dun Laoghaire Institute of Art, Design and Technology"	DL823	Business Studies - Entrepreneurship and Management	225	325
+"Dun Laoghaire Institute of Art, Design and Technology"	DL825	Applied Psychology	380	415
+"Dun Laoghaire Institute of Art, Design and Technology"	DL826	Visual Communication Design	#845	945
+"Dun Laoghaire Institute of Art, Design and Technology"	DL827	Art	#667	800
+"Dun Laoghaire Institute of Art, Design and Technology"	DL828	3D Design, Modelmaking and Digital Art	#555	820
+"Dun Laoghaire Institute of Art, Design and Technology"	DL829	Design for Stage and Screen (Costume Design)	#815	890
+"Dun Laoghaire Institute of Art, Design and Technology"	DL830	Design for Stage and Screen (Makeup Design)	#900	990
+"Dun Laoghaire Institute of Art, Design and Technology"	DL831	Design for Stage and Screen (Production Design)	#560	790
+"Dun Laoghaire Institute of Art, Design and Technology"	DL832	Animation	#800	1005
+"Dun Laoghaire Institute of Art, Design and Technology"	DL833	Photography	#655	800
+"Dun Laoghaire Institute of Art, Design and Technology"	DL834	Film and Television Production	#880	990
+"Dun Laoghaire Institute of Art, Design and Technology"	DL835	Creative Media Technologies	210	340
+"Dun Laoghaire Institute of Art, Design and Technology"	DL836	Creative Computing	270	330
+"Griffith College"	GC200	Business Studies (Cork)	280	335
+"Griffith College"	GC201	Accounting and Finance (Cork)	300	375
+"Griffith College"	GC230	Computing Science (Cork)	240	290
+"Griffith College"	GC300	Business Studies (Limerick)	260	380
+"Griffith College"	GC305	International Hospitality Management (Limerick)	245	350
+"Griffith College"	GC400	Business Studies (Dublin)	245	315
+"Griffith College"	GC401	Accounting and Finance (Dublin)	215	355
+"Griffith College"	GC402	Business Studies (HRM - Dublin)	260	405
+"Griffith College"	GC403	Law (Dublin)	240	340
+"Griffith College"	GC405	International Hospitality Management (Dublin)	245	280
+"Griffith College"	GC407	Business Studies (Marketing - Dublin)	215	294
+"Griffith College"	GC430	Computing Science (Dublin)	190	300
+"Griffith College"	GC431	Computing Science (Cloud Computing - Dublin)	240	240
+"Griffith College"	GC432	Computing Science (Software Development - Dublin)	250	270
+"Griffith College"	GC433	Computing Science (Network Management - Dublin)	290	290
+"Griffith College"	GC434	Computing Science (Games Development - Dublin)	240	300
+"Griffith College"	GC450	Journalism and Visual Media (Dublin)	225	305
+"Griffith College"	GC455	Music Production (Dublin - Portfolio)	#330	420
+"Griffith College"	GC462	Design Communication (Dublin - Portfolio)	#320	340
+"Griffith College"	GC489	Interior Architecture (Dublin)	195	310
+"Griffith College"	GC494	Fashion Design (Dublin - Portfolio)	#285	405
+"IBAT College Dublin"	BY401	Business		
+"ICD Business School"	ID001	Accounting and Finance		
+"ICD Business School"	ID002	Business Studies		
+"ICD Business School"	ID003	Business Studies with Chinese		
+"Institute of Technology, Blanchardstown"	BN101	Business	250	290
+"Institute of Technology, Blanchardstown"	BN103	Business and Information Technology	267	305
+"Institute of Technology, Blanchardstown"	BN104	Computing (Information Technology)	270	325
+"Institute of Technology, Blanchardstown"	BN107	Applied Social Studies in Social Care	310	335
+"Institute of Technology, Blanchardstown"	BN108	Engineering (Award options: Computer Engineering, Mechatronics)	310	340
+"Institute of Technology, Blanchardstown"	BN109	Business (Common Entry - Acc & Finance,Business,Bus with IT,Intl Bus)	305	317
+"Institute of Technology, Blanchardstown"	BN110	International Business	255	290
+"Institute of Technology, Blanchardstown"	BN111	Sports Management and Coaching	310	350
+"Institute of Technology, Blanchardstown"	BN112	Creative Digital Media	300	333
+"Institute of Technology, Blanchardstown"	BN113	Horticulture	255	315
+"Institute of Technology, Blanchardstown"	BN114	Accounting and Finance	300	365
+"Institute of Technology, Blanchardstown"	BN115	Community and Youth Development	305	345
+"Institute of Technology, Blanchardstown"	BN117	Computer Engineering in Mobile Systems	325	335
+"Institute of Technology, Blanchardstown"	BN118	Early Childhood Care and Education	300	345
+"Institute of Technology, Blanchardstown"	BN119	Digital Marketing	310	335
+"Institute of Technology, Blanchardstown"	BN120	Digital Forensics and Cyber Security	300	367
+"Institute of Technology, Blanchardstown"	BN121	Mechatronic Engineering	325	360
+"Institute of Technology, Tallaght"	 TA021	European Studies	235	295
+"Institute of Technology, Tallaght"	 TA022	Creative Digital Media	235	325
+"Institute of Technology, Tallaght"	 TA023	Advertising and Marketing Communications	235	315
+"Institute of Technology, Tallaght"	 TA025	Social Care Practice	300	325
+"Institute of Technology, Tallaght"	 TA026	International Hospitality and Tourism Management	200	295
+"Institute of Technology, Tallaght"	 TA121	Accounting and Finance	215	320
+"Institute of Technology, Tallaght"	 TA122	Management	245	300
+"Institute of Technology, Tallaght"	 TA123	Marketing Management	225	305
+"Institute of Technology, Tallaght"	 TA221	Electronic Engineering	215	325
+"Institute of Technology, Tallaght"	 TA222	Mechanical Engineering	220	330
+"Institute of Technology, Tallaght"	 TA223	Energy Systems Engineering	275	330
+"Institute of Technology, Tallaght"	 TA321	Pharmaceutical Science	280	350
+"Institute of Technology, Tallaght"	 TA322	Computing (Options:  Software, IT Management, Data analytics, Language)	250	300
+"Institute of Technology, Tallaght"	 TA326	DNA and Forensic Analysis	300	350
+"Institute of Technology, Tallaght"	 TA327	Sports Science and Health	365	400
+"National College of Art and Design"	AD101	1st Year Art and Design (Common Entry)	#407	537
+"National College of Art and Design"	AD202	Design or Fine Art, and Education - Second Level Teaching	#545	640
+"National College of Art and Design"	AD212	Product Design	#410	592
+"National College of Art and Design"	AD215	Visual Culture	325	395
+"National College of Ireland (NCI)"	NC003	Computing	310	350
+"National College of Ireland (NCI)"	NC004	Business Information Systems	310	340
+"National College of Ireland (NCI)"	NC005	Human Resource Management	290	330
+"National College of Ireland (NCI)"	NC009	Business	290	350
+"National College of Ireland (NCI)"	NC010	Psychology	320	380
+"National College of Ireland (NCI)"	NC020	Marketing Practice	200	311
+"National College of Ireland (NCI)"	NC022	Accounting and Finance	320	375
+"National College of Ireland (NCI)"	NC023	Tech Management with Data Analytics, Social Media and Business Analysis	255	305
+"Royal College of Surgeons in Ireland"	RC001	Medicine - Undergraduate Entry	#724*	727
+"Royal College of Surgeons in Ireland"	RC004	Physiotherapy	535	540
+"Royal College of Surgeons in Ireland"	RC005	Pharmacy	545	550
+"Royal College of Surgeons in Ireland"	RC101	Medicine - Graduate Entry	#58*	59
+"Trinity College Dublin"	TR002	Music	#380	455
+"Trinity College Dublin"	TR003	History	495	510
+"Trinity College Dublin"	TR004	Law	525*	545
+"Trinity College Dublin"	TR005	Philosophy	455	480
+"Trinity College Dublin"	TR006	Psychology	535*	555
+"Trinity College Dublin"	TR007	Clinical Speech and Language Studies	520*	555
+"Trinity College Dublin"	TR008	World Religions and Theology	350	410
+"Trinity College Dublin"	TR009	Music Education	#435	485
+"Trinity College Dublin"	TR012	History and Political Science	535*	555
+"Trinity College Dublin"	TR015	Philosophy, Political Science, Economics and Sociology	555*	570
+"Trinity College Dublin"	TR016	Deaf Studies	335	395
+"Trinity College Dublin"	TR017	Law and Business	580	590
+"Trinity College Dublin"	TR018	Law and French	575	590
+"Trinity College Dublin"	TR019	Law and German	535*	570
+"Trinity College Dublin"	TR020	Law and Political Science	575	590
+"Trinity College Dublin"	TR021	Classics	360	455
+"Trinity College Dublin"	TR022	Early and Modern Irish	375	475
+"Trinity College Dublin"	TR023	English Studies	515	540
+"Trinity College Dublin"	TR024	European Studies	535	555
+"Trinity College Dublin"	TR025	Drama and Theatre Studies	#425	475
+"Trinity College Dublin"	TR028	Ancient and Medieval History and Culture	395*	460
+"Trinity College Dublin"	TR029	Political Science and Geography	475	495
+"Trinity College Dublin"	TR030	Catholic Theological Studies	330	360
+"Trinity College Dublin"	TR031	Mathematics	545	580
+"Trinity College Dublin"	TR032	Engineering	500*	530
+"Trinity College Dublin"	TR033	Computer Science	480*	505
+"Trinity College Dublin"	TR034	Management Science and Information Systems Studies	565	595
+"Trinity College Dublin"	TR035	Theoretical Physics	555	590
+"Trinity College Dublin"	TR038	Engineering with Management	500	540
+"Trinity College Dublin"	TR039	Computer Science and Language	465	495
+"Trinity College Dublin"	TR051	Medicine	#729*	741
+"Trinity College Dublin"	TR052	Dental Science	585*	595
+"Trinity College Dublin"	TR053	Physiotherapy	535*	550
+"Trinity College Dublin"	TR054	Occupational Therapy	510	525
+"Trinity College Dublin"	TR055	Radiation Therapy	515*	530
+"Trinity College Dublin"	TR056	Human Health and Disease	530	545
+"Trinity College Dublin"	TR071	Science	500	530
+"Trinity College Dublin"	TR072	Pharmacy	555*	575
+"Trinity College Dublin"	TR073	Human Genetics	570	585
+"Trinity College Dublin"	TR074	Chemistry with Molecular Modelling	485	495
+"Trinity College Dublin"	TR075	Medicinal Chemistry	500*	535
+"Trinity College Dublin"	TR076	Nanoscience, Physics and Chemistry of Advanced Materials	585*	615
+"Trinity College Dublin"	TR077	Earth Sciences	490	520
+"Trinity College Dublin"	TR080	Business	535	560
+"Trinity College Dublin"	TR081	Business, Economic and Social Studies (BESS)	510*	530
+"Trinity College Dublin"	TR082	Computer Science and Business	505*	530
+"Trinity College Dublin"	TR083	Sociology and Social Policy	480*	500
+"Trinity College Dublin"	TR084	Social Studies (Social Work)	460*	485
+"Trinity College Dublin"	TR085	Business Studies and French	525	545
+"Trinity College Dublin"	TR086	Business Studies and German	495*	515
+"Trinity College Dublin"	TR087	Business Studies and Russian	450	475
+"Trinity College Dublin"	TR089	Business Studies and Polish	415*	430
+"Trinity College Dublin"	TR090	Business Studies and Spanish	515*	555
+"Trinity College Dublin"	TR091	General Nursing (Meath and St James`s)	425	445
+"Trinity College Dublin"	TR092	Mature Applicants General Nursing (Meath and St James`s)	#171	177
+"Trinity College Dublin"	TR093	General Nursing (Adelaide School of Nursing)	#400	410
+"Trinity College Dublin"	TR094	Mature Applicants General Nursing (Adelaide School of Nursing)	#177	186
+"Trinity College Dublin"	TR095	Mental Health Nursing	375	405
+"Trinity College Dublin"	TR096	Mature Applicants Mental Health Nursing	#154	163
+"Trinity College Dublin"	TR097	Intellectual Disability Nursing	355	385
+"Trinity College Dublin"	TR098	Mature Applicants Intellectual Disability Nursing	#152	163
+"Trinity College Dublin"	TR911	Children`s and General Nursing (Integrated)	485	495
+"Trinity College Dublin"	TR912	Mature Applicants Children`s and General Nursing (Integrated)	#174*	182
+"Trinity College Dublin"	TR913	Midwifery	450*	475
+"Trinity College Dublin"	TR914	Mature Applicants Midwifery	#171	179
+"University College Dublin (NUI)"	DN100	Architecture	510*	540
+"University College Dublin (NUI)"	DN120	Landscape Architecture	AQA	405
+"University College Dublin (NUI)"	DN140	Structural Engineering with Architecture	475	495
+"University College Dublin (NUI)"	DN150	Engineering	510	555
+"University College Dublin (NUI)"	DN200	Science	510	540
+"University College Dublin (NUI)"	DN201	Computer Science	485	510
+"University College Dublin (NUI)"	DN230	Actuarial and Financial Studies	560	580
+"University College Dublin (NUI)"	DN250	Agricultural Science	460	495
+"University College Dublin (NUI)"	DN252	Dairy Business	440	450
+"University College Dublin (NUI)"	DN253	Agri-Environmental Sciences	430	445
+"University College Dublin (NUI)"	DN261	Food Science	485	500
+"University College Dublin (NUI)"	DN262	Human Nutrition	530	545
+"University College Dublin (NUI)"	DN271	Forestry	AQA	355
+"University College Dublin (NUI)"	DN272	Horticulture, Landscape and Sportsturf Management	AQA	390
+"University College Dublin (NUI)"	DN300	Veterinary Medicine - Undergraduate Entry	565	585
+"University College Dublin (NUI)"	DN301	Veterinary Medicine - Graduate Entry	697	697
+"University College Dublin (NUI)"	DN310	Veterinary Nursing	465	485
+"University College Dublin (NUI)"	DN400	Medicine - Undergraduate Entry	#730*	741
+"University College Dublin (NUI)"	DN401	Medicine - Graduate Entry	#59*	62
+"University College Dublin (NUI)"	DN410	Radiography	525	545
+"University College Dublin (NUI)"	DN420	Physiotherapy	550	565
+"University College Dublin (NUI)"	DN425	Health and Performance Science	495	515
+"University College Dublin (NUI)"	DN430	Sport and Exercise Management	435*	460
+"University College Dublin (NUI)"	DN440	Biomedical, Health and Life Sciences	540*	560
+"University College Dublin (NUI)"	DN450	General Nursing	420	440
+"University College Dublin (NUI)"	DN451	Children`s and General Nursing (Integrated)	485	505
+"University College Dublin (NUI)"	DN452	Midwifery	480	490
+"University College Dublin (NUI)"	DN453	Mental Health Nursing	385	410
+"University College Dublin (NUI)"	DN460	Mature Applicants General Nursing	#168*	172
+"University College Dublin (NUI)"	DN461	Mature Applicants Children`s and General Nursing (Integrated)	#182*	185
+"University College Dublin (NUI)"	DN462	Mature Applicants Midwifery	#178	186
+"University College Dublin (NUI)"	DN463	Mature Applicants Mental Health Nursing	#166	170
+"University College Dublin (NUI)"	DN500	BA Degree - joint honours - full time	310	400
+"University College Dublin (NUI)"	DN501	BA Degree - joint honours - part time	310	405
+"University College Dublin (NUI)"	DN510	Economics	495	500
+"University College Dublin (NUI)"	DN511	English	445	480
+"University College Dublin (NUI)"	DN512	English with Drama	305	375
+"University College Dublin (NUI)"	DN513	English with Film	415	470
+"University College Dublin (NUI)"	DN514	Planning, Geography and Environment	290	365
+"University College Dublin (NUI)"	DN515	History	380	450
+"University College Dublin (NUI)"	DN519	Psychology	500	520
+"University College Dublin (NUI)"	DN541	International Languages	455	495
+"University College Dublin (NUI)"	DN550	Social Science	415	450
+"University College Dublin (NUI)"	DN600	Law	525	545
+"University College Dublin (NUI)"	DN610	Business and Law	520	545
+"University College Dublin (NUI)"	DN615	BCL Maîtrise	555	565
+"University College Dublin (NUI)"	DN650	Commerce	500	515
+"University College Dublin (NUI)"	DN660	Commerce International	510	530
+"University College Dublin (NUI)"	DN670	Quantitative Business	580*	595
+"Dundalk Institute of Technology"	DK810	Accounting and Finance	300	383
+"Dundalk Institute of Technology"	DK816	Business Studies	300	350
+"Dundalk Institute of Technology"	DK817	Business Studies (Years 1 and 2 at Monaghan Institute)		
+"Dundalk Institute of Technology"	DK820	Computing in Games Development	315	370
+"Dundalk Institute of Technology"	DK821	Computing	300	360
+"Dundalk Institute of Technology"	DK830	Building Surveying	300	340
+"Dundalk Institute of Technology"	DK860	Applied Music	#510	585
+"Dundalk Institute of Technology"	DK861	Digital Humanities	300	350
+"Dundalk Institute of Technology"	DK862	Social Care	300	340
+"Dundalk Institute of Technology"	DK863	Communications in Creative Media	315	365
+"Dundalk Institute of Technology"	DK864	Film and Television Production	300	350
+"Dundalk Institute of Technology"	DK865	Production of Music and Audio	300	350
+"Dundalk Institute of Technology"	DK870	General Nursing	400*	410
+"Dundalk Institute of Technology"	DK871	Mature Applicants General Nursing	#170	178
+"Dundalk Institute of Technology"	DK872	Intellectual Disability Nursing	320	340
+"Dundalk Institute of Technology"	DK873	Mature Applicants Intellectual Disability Nursing	#139	147
+"Dundalk Institute of Technology"	DK874	Psychiatric Nursing	340	365
+"Dundalk Institute of Technology"	DK875	Mature Applicants Psychiatric Nursing	#152	164
+"Dundalk Institute of Technology"	DK876	Early Childhood Studies	305	360
+"Dundalk Institute of Technology"	DK877	Midwifery	395*	415
+"Dundalk Institute of Technology"	DK878	Mature Applicants Midwifery	#178*	201
+"Dundalk Institute of Technology"	DK880	Health and Physical Activity	300	340
+"Dundalk Institute of Technology"	DK881	Environmental Bioscience	330	385
+"Dundalk Institute of Technology"	DK882	Agriculture	355	390
+"Dundalk Institute of Technology"	DK890	Multimedia Web Development	300	367
+"Galway-Mayo Institute of Technology"	GA181	Accounting	300	385
+"Galway-Mayo Institute of Technology"	GA182	Business	290	350
+"Galway-Mayo Institute of Technology"	GA183	Business Information Systems	305	345
+"Galway-Mayo Institute of Technology"	GA184	Business in Marketing and Sales	300	345
+"Galway-Mayo Institute of Technology"	GA185	Business in Finance and Economics	315	355
+"Galway-Mayo Institute of Technology"	GA186	Business with Entrepreneurship	290	340
+"Galway-Mayo Institute of Technology"	GA187	Business in Rural Enterprise and Agri-Business  Mountbellew Campus	300	350
+"Galway-Mayo Institute of Technology"	GA281	Film and Documentary	350	385
+"Galway-Mayo Institute of Technology"	GA282	Heritage Studies	200	300
+"Galway-Mayo Institute of Technology"	GA283	Contemporary Art	250	360
+"Galway-Mayo Institute of Technology"	GA284	Design	310	385
+"Galway-Mayo Institute of Technology"	GA380	Hotel and Catering Management	255	325
+"Galway-Mayo Institute of Technology"	GA480	Construction Management	260	315
+"Galway-Mayo Institute of Technology"	GA482	Quantity Surveying and Construction Economics	240	315
+"Galway-Mayo Institute of Technology"	GA483	Architectural Technology	265	345
+"Galway-Mayo Institute of Technology"	GA484	Civil Engineering	275	355
+"Galway-Mayo Institute of Technology"	GA680	Mechanical Engineering	300	360
+"Galway-Mayo Institute of Technology"	GA681	Energy Engineering	250	370
+"Galway-Mayo Institute of Technology"	GA780	Applied Freshwater and Marine Biology	300	356
+"Galway-Mayo Institute of Technology"	GA781	Applied Biology and Biopharmaceutical Science	305	370
+"Galway-Mayo Institute of Technology"	GA782	Chemical and Pharmaceutical Science	315	350
+"Galway-Mayo Institute of Technology"	GA783	Physics and Instrumentation	315	350
+"Galway-Mayo Institute of Technology"	GA784	Science (Undenominated)	300	365
+"Galway-Mayo Institute of Technology"	GA785	Medical Science	445	475
+"Galway-Mayo Institute of Technology"	GA786	Forensic Science and Analysis	310	355
+"Galway-Mayo Institute of Technology"	GA787	Computing in Software Development	300	365
+"Galway-Mayo Institute of Technology"	GA788	Computing and Digital Media	300	330
+"Galway-Mayo Institute of Technology"	GA789	Agriculture and Environmental Management - Mountbellew Campus	300	370
+"Galway-Mayo Institute of Technology"	GA790	Sport and Exercise Science	400	425
+"Galway-Mayo Institute of Technology"	GA880	General Nursing - Mayo Campus	410*	420
+"Galway-Mayo Institute of Technology"	GA881	Mature Applicants General Nursing - Mayo Campus	#175	180
+"Galway-Mayo Institute of Technology"	GA882	Psychiatric Nursing - Mayo Campus	365*	380
+"Galway-Mayo Institute of Technology"	GA883	Mature Applicants Psychiatric Nursing - Mayo Campus	#164	174
+"Galway-Mayo Institute of Technology"	GA884	Digital Media and Society - Mayo Campus		
+"Galway-Mayo Institute of Technology"	GA885	Outdoor Education - Mayo Campus	240	325
+"Galway-Mayo Institute of Technology"	GA886	Business - Mayo Campus	250	350
+"Galway-Mayo Institute of Technology"	GA887	History and Geography - Mayo Campus		
+"Galway-Mayo Institute of Technology"	GA889	Applied Social Care - Mayo Campus	300	361
+"Galway-Mayo Institute of Technology"	GA980	Education (Design Graphics and Construction) - Letterfrack Campus	370	390
+"Galway-Mayo Institute of Technology"	GA981	Furniture Design and Manufacture - Letterfrack Campus	235	325
+"Galway-Mayo Institute of Technology"	GA982	Furniture and Wood Technology - Letterfrack Campus	265	360
+"National University of Ireland, Galway"	GY101	Arts Joint Honours Degree	300	365
+"National University of Ireland, Galway"	GY103	Arts (Public and Social Policy)	320	370
+"National University of Ireland, Galway"	GY104	Arts (Psychology)	495	520
+"National University of Ireland, Galway"	GY105	Arts (History)	310	350
+"National University of Ireland, Galway"	GY107	Na Dána (Gaeilge agus Léann an Aistriúcháin)	365	380
+"National University of Ireland, Galway"	GY109	Arts (Mathematics and Education)	435	485
+"National University of Ireland, Galway"	GY110	Arts with Children`s Studies	390	420
+"National University of Ireland, Galway"	GY111	Arts with Creative Writing	425	475
+"National University of Ireland, Galway"	GY112	Arts with Film Studies	310	360
+"National University of Ireland, Galway"	GY113	Arts with Human Rights	320	390
+"National University of Ireland, Galway"	GY114	Arts with Irish Studies	340	380
+"National University of Ireland, Galway"	GY115	Arts with Performing Arts Studies	335	375
+"National University of Ireland, Galway"	GY117	Arts with Latin American Studies	350	430
+"National University of Ireland, Galway"	GY118	Arts (Drama, Theatre and Performance Studies)	400	460
+"National University of Ireland, Galway"	GY119	Arts with Journalism	410	430
+"National University of Ireland, Galway"	GY120	Arts (Child, Youth and Family: Policy and Practice)	305	350
+"National University of Ireland, Galway"	GY121	Arts (Children`s Studies)	330	375
+"National University of Ireland, Galway"	GY122	Na Dána (Cumarsáid agus Gaeilge)	330	400
+"National University of Ireland, Galway"	GY201	Commerce	395	425
+"National University of Ireland, Galway"	GY202	Commerce (International) with French	480	500
+"National University of Ireland, Galway"	GY203	Commerce (International) with German	480	490
+"National University of Ireland, Galway"	GY204	Commerce (International) with Spanish	480	505
+"National University of Ireland, Galway"	GY206	Business Information Systems	430	455
+"National University of Ireland, Galway"	GY207	Commerce (Accounting)	460	490
+"National University of Ireland, Galway"	GY208	Commerce (Gaeilge)	395	425
+"National University of Ireland, Galway"	GY209	Commerce (Global Experience)	500	515
+"National University of Ireland, Galway"	GY250	Corporate Law	380	410
+"National University of Ireland, Galway"	GY251	Civil Law	430	465
+"National University of Ireland, Galway"	GY261	Business Studies in International Hotel Management (Shannon)	#488	572
+"National University of Ireland, Galway"	GY262	Commerce in International Hotel Management (Shannon)	#630	642
+"National University of Ireland, Galway"	GY301	Science	400	450
+"National University of Ireland, Galway"	GY303	Biomedical Science	525	550
+"National University of Ireland, Galway"	GY304	Biotechnology	440	475
+"National University of Ireland, Galway"	GY308	Environmental Science	400	430
+"National University of Ireland, Galway"	GY309	Financial Mathematics and Economics	485	530
+"National University of Ireland, Galway"	GY310	Marine Science	405	460
+"National University of Ireland, Galway"	GY313	Health and Safety Systems	310	355
+"National University of Ireland, Galway"	GY314	Earth and Ocean Sciences	400	465
+"National University of Ireland, Galway"	GY318	Biopharmaceutical Chemistry	500	515
+"National University of Ireland, Galway"	GY319	Mathematical Science	455	505
+"National University of Ireland, Galway"	GY320	Physics (Degree options: Applied, Astrophysics, Biomedical, Theoretical)	450	490
+"National University of Ireland, Galway"	GY350	Computer Science and Information Technology	425	455
+"National University of Ireland, Galway"	GY401	Engineering (Undenominated)	445	495
+"National University of Ireland, Galway"	GY402	Civil Engineering	430	440
+"National University of Ireland, Galway"	GY405	Mechanical Engineering	430	465
+"National University of Ireland, Galway"	GY406	Electronic and Computer Engineering	435	480
+"National University of Ireland, Galway"	GY408	Biomedical Engineering	500	535
+"National University of Ireland, Galway"	GY410	Project and Construction Management	355	385
+"National University of Ireland, Galway"	GY413	Energy Systems Engineering	425	490
+"National University of Ireland, Galway"	GY414	Electrical and Electronic Engineering	445	510
+"National University of Ireland, Galway"	GY501	Medicine (5 year/6 year and embedded PhD options) includes Mature Entry	#722*	727
+"National University of Ireland, Galway"	GY502	Occupational Therapy	520	535
+"National University of Ireland, Galway"	GY503	Speech and Language Therapy	520	535
+"National University of Ireland, Galway"	GY504	Podiatry	440	475
+"National University of Ireland, Galway"	GY515	General Nursing (Galway and Portiuncula)	445	475
+"National University of Ireland, Galway"	GY516	Psychiatric Nursing	405	420
+"National University of Ireland, Galway"	GY517	Midwifery	440	470
+"National University of Ireland, Galway"	GY525	Mature Applicants General Nursing (Galway and Portiuncula)	#179	185
+"National University of Ireland, Galway"	GY526	Mature Applicants Psychiatric Nursing	#169*	175
+"National University of Ireland, Galway"	GY527	Mature Applicants Midwifery	#175	178
+"Letterkenny Institute of Technology"	LY108	Business - Accounting	305	370
+"Letterkenny Institute of Technology"	LY118	Business	280	345
+"Letterkenny Institute of Technology"	LY208	Law	290	340
+"Letterkenny Institute of Technology"	LY218	Business - with French/Spanish/German/Irish	210	355
+"Letterkenny Institute of Technology"	LY228	Sports Coaching and Performance	250	315
+"Letterkenny Institute of Technology"	LY408	Visual Communication and Graphic Design	#240	330
+"Letterkenny Institute of Technology"	LY508	Fire Safety Engineering	220	355
+"Letterkenny Institute of Technology"	LY518	Quantity Surveying	290	345
+"Letterkenny Institute of Technology"	LY708	Computing	300	355
+"Letterkenny Institute of Technology"	LY818	Science	305	380
+"Letterkenny Institute of Technology"	LY908	General Nursing	400*	415
+"Letterkenny Institute of Technology"	LY918	Psychiatric Nursing	350	375
+"Letterkenny Institute of Technology"	LY928	Intellectual Disability Nursing	315	350
+"Letterkenny Institute of Technology"	LY938	Mature Applicants General Nursing	#176	179
+"Letterkenny Institute of Technology"	LY948	Mature Applicants Psychiatric Nursing	#144	168
+"Letterkenny Institute of Technology"	LY958	Mature Applicants Intellectual Disability Nursing	#149	153
+"Letterkenny Institute of Technology"	LY968	Early Childhood Care, Health and Education	280	320
+"Letterkenny Institute of Technology"	LY978	Health & Social Care	260	315
+"Mary Immaculate College"	MI001	Contemporary & Applied Theatre Studies      (Workshop and Interview)	#255	305
+"Mary Immaculate College"	MI004	Liberal Arts	310	380
+"Mary Immaculate College"	MI005	Education - Primary Teaching	460	490
+"Mary Immaculate College"	MI006	Education - Primary Teaching - Gaeltacht Applicants	#430	465
+"Mary Immaculate College"	MI007	Early Childhood Care and Education	360*	410
+"Mary Immaculate College"	MI008	Education and Psychology - Primary Teaching	540	565
+"Mary Immaculate College"	MI009	Education, Business Studies and Accounting (Thurles)	340	385
+"Mary Immaculate College"	MI010	Education, Business Studies and Religious Studies (Thurles)	325	365
+"Mary Immaculate College"	MI011	Education, Irish and Religious Studies (Thurles)	375	395
+"Mary Immaculate College"	MI012	Education, Irish and Business Studies (Thurles)	360	435
+"Irish College of Humanities & Applied Sciences"	CI101	Counselling and Psychotherapy (Limerick)	220	315
+"Irish College of Humanities & Applied Sciences"	CI107	Counselling and Youth Studies (Limerick)	255	325
+"Irish College of Humanities & Applied Sciences"	CI108	Counselling and Addiction Studies (Limerick)	315	335
+"Limerick Institute of Technology"	LC110	Art and Design	#650	875
+"Limerick Institute of Technology"	LC114	Design (Fashion Knitwear and Textiles - Portfolio)	#655	910
+"Limerick Institute of Technology"	LC223	Law and Taxation	280	350
+"Limerick Institute of Technology"	LC224	Business (Accounting and Finance)	310	360
+"Limerick Institute of Technology"	LC225	Business (Marketing and Management)	295	350
+"Limerick Institute of Technology"	LC226	Business (Enterprise and Innovation)	230	300
+"Limerick Institute of Technology"	LC231	Business Technology	255	305
+"Limerick Institute of Technology"	LC233	Software Development	255	310
+"Limerick Institute of Technology"	LC234	Multimedia Programming and Design	250	325
+"Limerick Institute of Technology"	LC236	Internet Systems Development	335	350
+"Limerick Institute of Technology"	LC239	Computer Networks and Systems Management	300	333
+"Limerick Institute of Technology"	LC241	Construction Management	255	305
+"Limerick Institute of Technology"	LC242	Property Valuation and Management	300	320
+"Limerick Institute of Technology"	LC243	Quantity Surveying	310	350
+"Limerick Institute of Technology"	LC248	Built Environment - Undenominated	290	325
+"Limerick Institute of Technology"	LC252	Civil Engineering Management	250	320
+"Limerick Institute of Technology"	LC265	Pharmaceutical and Forensic Analysis	355	380
+"Limerick Institute of Technology"	LC266	Drug and Medicinal Product Analysis	300	330
+"Limerick Institute of Technology"	LC275	Electrical Systems	240	305
+"Limerick Institute of Technology"	LC292	Social Care Work	330	370
+"Limerick Institute of Technology"	LC293	Business Studies with Travel and Tourism Management	250	295
+"Limerick Institute of Technology"	LC294	Business Studies with Event Management	300	335
+"Limerick Institute of Technology"	LC295	Business Studies with Sports Management	280	325
+"Limerick Institute of Technology"	LC402	Social Care Work (Thurles)	311	355
+"Limerick Institute of Technology"	LC407	Social and Community Studies (Thurles)	9999	
+"Limerick Institute of Technology"	LC408	Environmental and Natural Resource Management (Thurles)	275	365
+"Limerick Institute of Technology"	LC411	Business (Marketing and Management - Thurles)	280	390
+"Limerick Institute of Technology"	LC418	Computing - Games Design and Development (Thurles)	265	330
+"Limerick Institute of Technology"	LC422	Sports Strength and Conditioning (Thurles)	300	344
+"Limerick Institute of Technology"	LC502	Game Art and Design  (Clonmel - Portfolio)	#587	805
+"Limerick Institute of Technology"	LC513	Business (Clonmel)	285	320
+"Limerick Institute of Technology"	LC517	Creative Multimedia (Clonmel)	185	317
+"Limerick Institute of Technology"	LC518	Digital Animation Production  (Clonmel - Portfolio)	#611	860
+"University of Limerick"	LM020	Law and Accounting	440	475
+"University of Limerick"	LM022	Politics and International Relations	330	405
+"University of Limerick"	LM028	Criminal Justice	400	415
+"University of Limerick"	LM029	Law Plus	460	485
+"University of Limerick"	LM030	Irish Music and Dance	#345	410
+"University of Limerick"	LM031	Voice and Dance	#315	380
+"University of Limerick"	LM032	Arts (Joint Honours)	425	450
+"University of Limerick"	LM033	New Media and English	330	365
+"University of Limerick"	LM035	English and History	335	380
+"University of Limerick"	LM036	Economics and Sociology	380	400
+"University of Limerick"	LM037	Economics and Mathematical Sciences	410	485
+"University of Limerick"	LM038	Psychology and Sociology	505*	510
+"University of Limerick"	LM039	Journalism and New Media	410	450
+"University of Limerick"	LM040	European Studies	375	410
+"University of Limerick"	LM041	Politics and Public Administration	330	370
+"University of Limerick"	LM044	Applied Languages (two or three languages to degree level)	415	465
+"University of Limerick"	LM045	Language and Literature	345	375
+"University of Limerick"	LM046	History, Politics, Sociology and Social Studies	325	360
+"University of Limerick"	LM048	Gaeilge+	320	365
+"University of Limerick"	LM050	Business Studies	425*	450
+"University of Limerick"	LM051	Computer Systems	380	425
+"University of Limerick"	LM052	Business Studies with a Modern Language (French)	430	465
+"University of Limerick"	LM053	Business Studies with a Modern Language (German)	430	455
+"University of Limerick"	LM055	Business Studies with a Modern Language (Japanese)	425	465
+"University of Limerick"	LM056	International Business	505	525
+"University of Limerick"	LM058	Financial Mathematics	435	485
+"University of Limerick"	LM060	Mathematical Sciences	450	515
+"University of Limerick"	LM061	Pharmaceutical and Industrial Chemistry	405	450
+"University of Limerick"	LM063	Technology Management	350	390
+"University of Limerick"	LM064	Industrial Biochemistry	420	460
+"University of Limerick"	LM065	Applied Physics	415	475
+"University of Limerick"	LM066	Environmental Science	385	420
+"University of Limerick"	LM068	Food Science and Health	460	475
+"University of Limerick"	LM071	Biomedical Engineering	460	490
+"University of Limerick"	LM073	Mechanical Engineering	440	480
+"University of Limerick"	LM076	Product Design and Technology	435	460
+"University of Limerick"	LM077	Aeronautical Engineering	500	540
+"University of Limerick"	LM080	Electronics	365	385
+"University of Limerick"	LM082	Construction Management and Engineering	365	400
+"University of Limerick"	LM083	Mobile Communications and Security	345	380
+"University of Limerick"	LM085	Civil Engineering	465	500
+"University of Limerick"	LM087	Energy	385	425
+"University of Limerick"	LM088	Mathematics and Physics	475	520
+"University of Limerick"	LM089	Sport and Exercise Sciences	475	485
+"University of Limerick"	LM090	Physical Education with Teacher Ed	505*	520
+"University of Limerick"	LM092	Science with Teacher Ed (Biology with Phys or Chem or Ag Science)	480	500
+"University of Limerick"	LM093	Equine Science	360	400
+"University of Limerick"	LM094	Materials and Architectural Technology with Teacher Ed	415	440
+"University of Limerick"	LM095	Materials and Engineering Technology with Teacher Ed	395	420
+"University of Limerick"	LM096	Science with Teacher Ed (Physical Sciences with Chemistry and Physics)	420	445
+"University of Limerick"	LM099	Architecture	#420	465
+"University of Limerick"	LM100	Physiotherapy	555	565
+"University of Limerick"	LM101	Medicine - Graduate Entry	#55	56
+"University of Limerick"	LM102	Psychology	525	535
+"University of Limerick"	LM103	Paramedic Studies	#310	380
+"University of Limerick"	LM110	Computer Games Development	350	385
+"University of Limerick"	LM113	Digital Media Design	340	360
+"University of Limerick"	LM114	Music, Media and Performance Technology	340	420
+"University of Limerick"	LM115	Chemical and Biochemical Engineering	440	505
+"University of Limerick"	LM116	Engineering Choice - Degree options	430	475
+"University of Limerick"	LM117	Science Choice - Degree options	405*	440
+"University of Limerick"	LM118	Electronic and Computer Engineering - with defined Degree Options	425	475
+"University of Limerick"	LM119	Design and Manufacture	420	515
+"University of Limerick"	LM120	Aircraft Maintenance and Airworthiness Engineering	400	430
+"University of Limerick"	LM150	General Nursing	460*	480
+"University of Limerick"	LM151	Mature Applicants General Nursing	#180	185
+"University of Limerick"	LM152	Mental Health Nursing	440	455
+"University of Limerick"	LM153	Mature Applicants Mental Health Nursing	#166*	173
+"University of Limerick"	LM154	Intellectual Disability Nursing	395*	440
+"University of Limerick"	LM155	Mature Applicants Intellectual Disability Nursing	#165	168
+"University of Limerick"	LM156	Midwifery	430*	445
+"University of Limerick"	LM157	Mature Applicants Midwifery	#178	185
+"Pontifical University, St Patrick's College"	MU001	Theology and Arts	300	320
+"Pontifical University, St Patrick's College"	MU002	Theology	360	360
+"Maynooth University"	MH001	Education - Primary Teaching (Froebel)	495	515
+"Maynooth University"	MH002	Education - Primary Teaching - Gaeltacht Applicants (Froebel)		
+"Maynooth University"	MH101	Arts	330	380
+"Maynooth University"	MH102	Music Technology	325	395
+"Maynooth University"	MH103	Music	#290	435
+"Maynooth University"	MH106	Psychology	485	490
+"Maynooth University"	MH107	Social Science	375	395
+"Maynooth University"	MH108	European Studies	340	380
+"Maynooth University"	MH109	Media Studies / Media Technology (Digital Media)	340	405
+"Maynooth University"	MH116	Community and Youth Work (Full-Time)	#225	300
+"Maynooth University"	MH201	Science	380	420
+"Maynooth University"	MH202	Biotechnology	415	435
+"Maynooth University"	MH204	Physics with Astrophysics	435	485
+"Maynooth University"	MH206	Theoretical Physics and Mathematics	505	550
+"Maynooth University"	MH208	Biological and Biomedical Sciences	465	485
+"Maynooth University"	MH209	Psychology (through Science)	480	490
+"Maynooth University"	MH210	Chemistry with Pharmaceutical and Biomedical Chemistry	450	465
+"Maynooth University"	MH212	Science (with Education) or Mathematics (with Education)	455	475
+"Maynooth University"	MH304	Engineering	325	435
+"Maynooth University"	MH305	Product Design	390	425
+"Maynooth University"	MH306	Robotics and Intelligent Devices	350	390
+"Maynooth University"	MH401	Finance - Three degree options	360	385
+"Maynooth University"	MH403	Accounting and Finance	400	435
+"Maynooth University"	MH404	Business  Four degree options	405	440
+"Maynooth University"	MH407	Business and Accounting	400	430
+"Maynooth University"	MH501	LLB Law - four year single Major Law programme	450	485
+"Maynooth University"	MH502	Law (Law and Arts / Law and Accounting / Law and Business)	425	460
+"Maynooth University"	MH601	Computer Science through Arts	350	385
+"Maynooth University"	MH602	Computer Science through Science	350	390
+"Maynooth University"	MH603	Computational Thinking (Computer Science, Mathematics and Philosophy)	495	535
+"Maynooth University"	MH801	Early Childhood - Teaching and Learning (part-time)	355	385
+"Maynooth University"	MH802	Community and Youth Work  (part-time in-service)	#345	345
+"Maynooth University"	MH803	Local Studies or Community Studies (part-time, evening) Mature Students	888	
+"Maynooth University"	MH901	Arts - Full time (Kilkenny Campus - First year only)	220	305
+"St. Angela's College"	AS001	Education, Home Economics and Biology with concurrent Teacher Ed	465*	495
+"St. Angela's College"	AS002	Education, Home Economics and Religious Ed with concurrent Teacher Ed	420*	445
+"St. Angela's College"	AS003	Education, Home Economics and Irish with concurrent Teacher Ed	425*	460
+"St. Angela's College"	AS004	Education, Home Economics and Economics with concurrent Teacher Ed	415*	425
+"St. Angela's College"	AS051	Food and Business Management	360	420
+"St. Angela's College"	AS052	Health and Disability Studies	270	350
+"St. Angela's College"	AS110	General Nursing	405*	420
+"St. Angela's College"	AS111	Mature Applicants General Nursing	#186*	196
+"St. Angela's College"	AS130	Intellectual Disability Nursing	350	360
+"St. Angela's College"	AS131	Mature Applicants Intellectual Disability Nursing	#154	163
+"Institute of Technology, Sligo"	SG141	Business	280	335
+"Institute of Technology, Sligo"	SG142	Business in International Marketing and Sales with French	295	420
+"Institute of Technology, Sligo"	SG143	Business in International Marketing and Sales with German	350	390
+"Institute of Technology, Sligo"	SG144	Business in International Marketing and Sales with Spanish	250	400
+"Institute of Technology, Sligo"	SG146	Accounting	345	405
+"Institute of Technology, Sligo"	SG149	Business in Finance and Investment	315	365
+"Institute of Technology, Sligo"	SG241	Performing Arts	250	300
+"Institute of Technology, Sligo"	SG242	Early Childhood Care and Education	290	345
+"Institute of Technology, Sligo"	SG243	Social Care Practice	300	340
+"Institute of Technology, Sligo"	SG244	Fine Art (Portfolio)	#383	935
+"Institute of Technology, Sligo"	SG245	Creative Design	270	320
+"Institute of Technology, Sligo"	SG246	Computing	285	335
+"Institute of Technology, Sligo"	SG342	Civil Engineering	9999	
+"Institute of Technology, Sligo"	SG343	Quantity Surveying	255	315
+"Institute of Technology, Sligo"	SG345	Architectural Design	285	370
+"Institute of Technology, Sligo"	SG440	Agri-Food Science	315	360
+"Institute of Technology, Sligo"	SG441	Environmental Science	330	365
+"Institute of Technology, Sligo"	SG442	Occupational Safety and Health	295	355
+"Institute of Technology, Sligo"	SG443	Human Nutrition	380	405
+"Institute of Technology, Sligo"	SG444	Science Undenominated	290	335
+"Institute of Technology, Sligo"	SG445	Pharmaceutical Science with Drug Development	310	355
+"Institute of Technology, Sligo"	SG446	Applied Archaeology	300	380
+"Institute of Technology, Sligo"	SG447	Health Science and Physical Activity	330	367
+"Institute of Technology, Sligo"	SG448	Forensic Investigation and Analysis	378	415
+"Institute of Technology, Sligo"	SG449	Medical Biotechnology	350	405
+"Institute of Technology, Tralee"	TL801	Animation Visual Effects and Motion Design	260	333
+"Institute of Technology, Tralee"	TL802	TV, Radio and New Media Broadcasting	280	345
+"Institute of Technology, Tralee"	TL803	Music Technology	265	345
+"Institute of Technology, Tralee"	TL805	Information Systems Management	305	365
+"Institute of Technology, Tralee"	TL810	Computing with Software Development	305	383
+"Institute of Technology, Tralee"	TL811	Computing with Games Development	300	372
+"Institute of Technology, Tralee"	TL812	Computing with Media Development	335	415
+"Institute of Technology, Tralee"	TL820	Travel and Tourism Management	300	335
+"Institute of Technology, Tralee"	TL831	Business Studies	300	355
+"Institute of Technology, Tralee"	TL844	Agricultural Engineering	335	375
+"Institute of Technology, Tralee"	TL847	Manufacturing Engineering	360	375
+"Institute of Technology, Tralee"	TL848	Agricultural Science	345	380
+"Institute of Technology, Tralee"	TL851	Wildlife Biology	300	365
+"Institute of Technology, Tralee"	TL855	Pharmaceutical Science	367	385
+"Institute of Technology, Tralee"	TL871	Health and Leisure	315	360
+"Institute of Technology, Tralee"	TL872	Health and Leisure with Massage	350	385
+"Institute of Technology, Tralee"	TL880	Early Childhood Care and Education	305	340
+"Institute of Technology, Tralee"	TL881	Social Care	320	390
+"Institute of Technology, Tralee"	TL890	General Nursing	425*	440
+"Institute of Technology, Tralee"	TL891	Mental Health Nursing	405	425
+"Institute of Technology, Tralee"	TL892	Mature Applicants General Nursing	#169*	174
+"Institute of Technology, Tralee"	TL893	Mature Applicants Mental Health Nursing	#161	170
+"Waterford Institute of Technology"	WD025	Construction Management and Engineering	250	330
+"Waterford Institute of Technology"	WD027	Music	#310	370
+"Waterford Institute of Technology"	WD028	Applied Computing	310	365
+"Waterford Institute of Technology"	WD048	Business	285	355
+"Waterford Institute of Technology"	WD084	Accounting	315	400
+"Waterford Institute of Technology"	WD085	Mechanical and Manufacturing Engineering	295	360
+"Waterford Institute of Technology"	WD086	Electronic Engineering	278	425
+"Waterford Institute of Technology"	WD091	Hospitality Management	290	340
+"Waterford Institute of Technology"	WD116	General Nursing	420	430
+"Waterford Institute of Technology"	WD117	Psychiatric Nursing	385	395
+"Waterford Institute of Technology"	WD120	Intellectual Disability Nursing	370*	390
+"Waterford Institute of Technology"	WD124	Health Promotion	290	320
+"Waterford Institute of Technology"	WD125	Exercise and Health Studies	280	325
+"Waterford Institute of Technology"	WD134	International Business	300	350
+"Waterford Institute of Technology"	WD137	Design (Visual Communications)	290	335
+"Waterford Institute of Technology"	WD140	Laws	300	360
+"Waterford Institute of Technology"	WD144	Architecture	305	385
+"Waterford Institute of Technology"	WD147	Pharmaceutical Science	350	400
+"Waterford Institute of Technology"	WD148	Tourism Marketing	285	365
+"Waterford Institute of Technology"	WD149	Early Childhood Studies	290	345
+"Waterford Institute of Technology"	WD150	Criminal Justice Studies	285	325
+"Waterford Institute of Technology"	WD152	Visual Art	270	365
+"Waterford Institute of Technology"	WD160	Finance and Investment	300	365
+"Waterford Institute of Technology"	WD161	Computer Forensics and Security	265	333
+"Waterford Institute of Technology"	WD162	Quantity Surveying	295	335
+"Waterford Institute of Technology"	WD163	Psychology	375	400
+"Waterford Institute of Technology"	WD168	Entertainments Systems	295	345
+"Waterford Institute of Technology"	WD171	Sustainable Energy Engineering	285	361
+"Waterford Institute of Technology"	WD180	Physics for Modern Technology	370	415
+"Waterford Institute of Technology"	WD186	Sports Coaching and Performance	330	370
+"Waterford Institute of Technology"	WD187	Social Science	280	333
+"Waterford Institute of Technology"	WD191	Agricultural Science	400	425
+"Waterford Institute of Technology"	WD192	Social Care Practice	300	350
+"Waterford Institute of Technology"	WD193	Marketing and Digital Media	300	360
+"Waterford Institute of Technology"	WD194	Culinary Arts	305	360
+"Waterford Institute of Technology"	WD195	Architectural & Building Information Modelling Technology	300	350
+"Waterford Institute of Technology"	WD197	The Internet of Things	275	380
+"Waterford Institute of Technology"	WD200	Arts	275	320
+"Waterford Institute of Technology"	WD816	Mature Applicants General Nursing	#188	193
+"Waterford Institute of Technology"	WD817	Mature Applicants Psychiatric Nursing	#176	183
+"Waterford Institute of Technology"	WD820	Mature Applicants Intellectual Disability Nursing	#169*	170
+
