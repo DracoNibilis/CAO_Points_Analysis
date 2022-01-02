@@ -6,11 +6,11 @@ This repository contains Project for Fundamentals of Data Analysis. The project 
 - CAO Points Project.
 
 ## Files included:
+    * data (folder),
+    * README.mb,
+    * cao.ipynb,
     * playing_with_jupyter.ipynb ( not part of the project ),
     * pyplot.ipynb,
-    * cao.ipynb,
-    * README.nb,
-    * data (folder),
     * requirements.txt.
 
 
@@ -18,14 +18,13 @@ This repository contains Project for Fundamentals of Data Analysis. The project 
 ![Pyplot logo](https://github.com/DracoNibilis/mmiu/blob/master/plt_logo_small.jpg)
 
 ***
-Reletad files:
+Releted files:
 - pyplot.ipynb
 
 This project is a concise overview of the `matplotlib.pyplot` Python package. In bref I am describing overall purpose of pyplot with deeper analysis of 3 choosen plots. Choosen plots are:
 - scatter plot,
 - histogram,
 - area plot.
-
 
 ###  CAO Points Project
 ![CAO Points](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
@@ -35,20 +34,19 @@ Releted files:
 - cao.ipynb,
 - data (folder).
 
-This project is showing analysis of CAO Points from website `http://www.cao.ie/index.php?page=points&bb=mediastats`. 
+This project is showing analysis of CAO Points from website:
+ `http://www.cao.ie/index.php?page=points&bb=mediastats`. 
+
 Project includes:
 - CAO Points from 2010 - 2021,
-- Overview hot to load CAO Points from website,
+- Overview how to load CAO Points from website,
 - Use of `pandas` to create data set with points data,
 - comparison of CAO Points in 2019, 2020, 2021,
 - comparison of CAO Points from all uploaded years 2010 - 2021,
 - comparison of CAO Points from courses which were pointed across 2010-2021,
 - appropiated plots plus KDE plots.
 
-
-
-
-# Python's packages used to create projects:
+## Python's packages used to create projects:
     * matplotlib.pyplot
     * pandas
     * numpy
@@ -56,9 +54,9 @@ Project includes:
     * requests
     * datetime
     * urllib.request
-    * seaborn
+    * seaborn.
 
-# Specification:
+## Specification:
 Projects were made on:
 - Windows 10 Home, version 20H2,
 - Jupyter 6.3.0,
