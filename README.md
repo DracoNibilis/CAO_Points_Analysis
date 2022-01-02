@@ -14,7 +14,7 @@ This repository contains Project for Fundamentals of Data Analysis. The project 
     * requirements.txt.
 
 
-### Pyplot Project
+## Pyplot Project
 ![Pyplot logo](https://github.com/DracoNibilis/mmiu/blob/master/plt_logo_small.jpg)
 
 ***
@@ -26,7 +26,7 @@ This project is a concise overview of the `matplotlib.pyplot` Python package. In
 - histogram,
 - area plot.
 
-###  CAO Points Project
+##  CAO Points Project
 ![CAO Points](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
 
 ***
