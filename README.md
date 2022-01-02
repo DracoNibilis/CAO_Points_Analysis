@@ -35,7 +35,16 @@ Releted files:
 - cao.ipynb,
 - data (folder).
 
-This project is .......
+This project is showing analysis of CAO Points from website `http://www.cao.ie/index.php?page=points&bb=mediastats`. 
+Project includes:
+- CAO Points from 2010 - 2021,
+- Overview hot to load CAO Points from website,
+- Use of `pandas` to create data set with points data,
+- comparison of CAO Points in 2019, 2020, 2021,
+- comparison of CAO Points from all uploaded years 2010 - 2021,
+- comparison of CAO Points from courses which were pointed across 2010-2021,
+- appropiated plots plus KDE plots.
+
 
 
 
