@@ -1,5 +1,8 @@
-----------------------------------------------------------------------------
-This repository will contain Project for Fundamentals for Data Analytics.
+***
+# Project for Fundamentals of Data Analysis.
+
+This repository contains Project for Fundamentals of Data Analysis. The project 
+
 
 
 
