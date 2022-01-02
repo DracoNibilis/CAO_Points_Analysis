@@ -46,21 +46,7 @@ Project includes:
 - comparison of CAO Points from courses which were pointed across 2010-2021,
 - appropiated plots plus KDE plots.
 
-## Python's packages used to create projects:
-    * matplotlib.pyplot
-    * pandas
-    * numpy
-    * random
-    * requests
-    * datetime
-    * urllib.request
-    * seaborn.
-
-## Specification:
-Projects were made on:
-- Windows 10 Home, version 20H2,
-- Jupyter 6.3.0,
-- Python 3.8.8
+***
 
 
 
