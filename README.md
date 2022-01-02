@@ -15,7 +15,7 @@ This repository contains Project for Fundamentals of Data Analysis. The project 
 
 
 #### Pyplot Project
-[Pyplot logo](https://github.com/DracoNibilis/mmiu/blob/master/plt_logo_small.jpg)
+![Pyplot logo](https://github.com/DracoNibilis/mmiu/blob/master/plt_logo_small.jpg)
 Reletad files:
 - pyplot.ipynb
 
